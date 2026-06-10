@@ -1,0 +1,11 @@
+{
+    "name": "com.ohara.networktransportlibrary",
+    "displayName": "Network Transport Library",
+    "version": "1.0.0",
+    "unity": "2022.2",
+    "description": "Unity Network library.",
+    "keywords": [],
+    "license": "",
+    "category": "",
+    "dependencies": {}
+}
